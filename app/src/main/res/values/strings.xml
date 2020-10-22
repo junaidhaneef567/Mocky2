@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mocky</string>
+
+    <string name="categoryJSON">Category</string>
+    <string name="sub_categories">Sub Category</string>
+    <string name="filter">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apply">Apply</string>
+    <string name="quantity">Select Quantity (Min:1)</string>
+    <string name="pricerange">Select Price Range\"</string>
+</resources>
